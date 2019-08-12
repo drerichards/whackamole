@@ -1,0 +1,13 @@
+.footer-container {
+    display: flex;
+
+    .score-container {
+        flex: 3;
+        text-align: center;
+    }
+
+    .controls-container {
+        flex: 1;
+        text-align: center;
+    }
+}
